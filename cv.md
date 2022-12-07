@@ -14,18 +14,17 @@ I'am working as map creator because I'm love geography, but i want to try myself
 * Agisoft Photoscan
 ***
 ## Code Examples
-I just started study it but i can write this:
+I just started study here but I can write this:
 ```
 <p>Hello World!<p>
 ```
 ***
 ## Experience
-* Ministry of Defence - GIS-specialist
 * Lyft - Data Curator
 ***
 ## Education
 * Belarusian State University
-    + Military Faculty
+    + Geographic Information System
 ***
 ## Languages
 * English - Intermediate
